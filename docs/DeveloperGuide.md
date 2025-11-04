@@ -740,6 +740,7 @@ testers are expected to do more *exploratory* testing.
    4. Start Wi-Find by typing:
        ```bash
       java -jar WiFind.jar
+      ```
    5. Expected: Shows the GUI with a set of sample contacts. The window size may not be optimum.
 
 2. Saving window preferences
