@@ -196,6 +196,7 @@ Format: `add n/NAME p/PHONE_NUMBER e/EMAIL c/COUNTRY com/COMPANY {t/TAG}…​`
 
 - Alphanumerics and special characters are allowed in NAME.
 - Phone numbers should only contain numbers, spaces, or the characters <code>+</code>, <code>-</code>, <code>(</code>, <code>)</code>.
+- Countries should only be alphabetical, not be blank
 - These are the limits of each field:
   - NAME: 70 characters
   - PHONE_NUMBER: At least 3 numbers, max of 26
